@@ -55,7 +55,7 @@ VALUES
 INSERT INTO albums
 (artist, name, release_date, genre, sales)
 VALUES
-  ('The Beatles', 'Sgt. Pepper's Lonely Hearts Club Band', 1967, 'Rock', 13.1);
+  ('The Beatles', 'Sgt. Pepper''s Lonely Hearts Club Band', 1967, 'Rock', 13.1);
 INSERT INTO albums
 (artist, name, release_date, genre, sales)
 VALUES
@@ -71,7 +71,7 @@ VALUES
 INSERT INTO albums
 (artist, name, release_date, genre, sales)
 VALUES
-  ('Celine Dion', 'Let's Talk About Love', 1997, 'Pop / Soft rock', 19.3);
+  ('Celine Dion', 'Let''s Talk About Love', 1997, 'Pop / Soft rock', 19.3);
 INSERT INTO albums
 (artist, name, release_date, genre, sales)
 VALUES
@@ -113,7 +113,7 @@ VALUES
   ('Nirvana', 'Nevermind', 1991, 'Grunge, alternative rock', 16.7),
   ('Pink Floyd', 'The Wall', 1979, 'Progressive rock', 17.6),
   ('Santana', 'Supernatural', 1999, 'Rock', 20.5),
-  ('Guns N' Roses', 'Appetite for Destruction', 1987, 'Heavy metal / hard rock', 21.3),
+  ('Guns N'' Roses', 'Appetite for Destruction', 1987, 'Heavy metal / hard rock', 21.3),
   ('ABBA', 'Gold: Greatest Hits', 1992, 'Pop', 30),
   ('Bon Jovi', 'Slippery When Wet', 1986, 'Hard rock', 24),
   ('Various artists', 'Grease: The Original Soundtrack from the Motion Picture', 1978, 'Soundtrack', 42),
@@ -128,12 +128,12 @@ VALUES
   ('Queen', 'Greatest Hits', 1981, 'Rock', 30),
   ('Simon & Garfunkel', 'Bridge over Troubled Water', 1970, 'Folk rock', 24),
   ('U2', 'The Joshua Tree', 1987, 'Rock', 30),
-  ('Backstreet Boys', 'Backstreet's Back / Backstreet Boys', 1997, 'Pop', 24),
+  ('Backstreet Boys', 'Backstreet''s Back / Backstreet Boys', 1997, 'Pop', 24),
   ('Backstreet Boys', 'Millennium', 1999, 'Pop', 26),
   ('Ace of Base', 'Happy Nation/The Sign', 1993, 'Pop', 22),
   ('TLC', 'CrazySexyCool', 1994, 'R&B, hip hop', 23),
-  ('Cyndi Lauper', 'She's So Unusual', 1983, 'New wave, pop rock, synthpop', 22),
-  ('Oasis', '(What's the Story) Morning Glory?', 1995, 'Britpop, rock', 18),
+  ('Cyndi Lauper', 'She''s So Unusual', 1983, 'New wave, pop rock, synthpop', 22),
+  ('Oasis', '(What''s the Story) Morning Glory?', 1995, 'Britpop, rock', 18),
   ('Bon Jovi', 'Cross Road', 1994, 'Hard rock', 22),
   ('Eminem', 'The Marshall Mathers LP', 2000, 'Rap, hip-hop', 24),
   ('Dido', 'No Angel', 1999, 'Pop', 21),
@@ -144,7 +144,7 @@ VALUES
   ('Def Leppard', 'Hysteria', 1987, 'Pop, Hard rock', 20),
   ('Fei Xiang', 'A Voice on the Ocean', 1986, 'Mandopop', 20),
   ('Eric Clapton', 'Unplugged', 1992, 'Acoustic blues, folk rock', 26),
-  ('Lionel Richie', 'Can't Slow Down', 1983, 'Pop, R&B, soul', 22),
+  ('Lionel Richie', 'Can''t Slow Down', 1983, 'Pop, R&B, soul', 22),
   ('Madonna', 'Ray of Light', 1998, 'Pop, Dance, Electronica', 20),
   ('Michael Jackson', 'HIStory: Past, Present and Future, Book I', 1995, 'Pop, rock, R&B', 22),
   ('Michael Jackson', 'Off the Wall', 1979, 'Soul, disco, R&B', 22),
